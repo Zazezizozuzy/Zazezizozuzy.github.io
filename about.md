@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I get paid to develop software and have no idea what I'm doing
 
-### More Information
+###More Information (-Z- place a space between the #s and 'More' to create header)
 
-A place to include any other types of information that you'd like to include about yourself.
+
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+Updating soon
+#[Z.widwil@gmail.com](mailto:z.widwil@gmail.com)
