@@ -15,6 +15,8 @@ Z&#151;
 
 PS: I did have to edit a few things through GitHub. General grammar/incorrect words. The post title was not formatted correctly. Stackoverflow wasn't showing up as a link. 'What I haven't dont yet' wasn't a propper header. This was after spending about 20 minutes trying to figure out how to commit the change. Luckily, I found three links below. Showed me how to check git status, review changes, add them, commit them, and push them. Good stuff. 
 
+
 5) http://stackoverflow.com/questions/17291995/push-existing-project-into-github
+
 6) http://stackoverflow.com/questions/2419249/git-commit-all-files-using-single-command
 7) http://stackoverflow.com/questions/5862233/commit-changes-only-in-one-directory-in-git
