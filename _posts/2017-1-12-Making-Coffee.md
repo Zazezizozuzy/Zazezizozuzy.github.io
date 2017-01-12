@@ -16,3 +16,8 @@ The cup is usually dirty from the day before, so I head towards the kitchen. A d
 While the water is boiling, I was my cup and prep everything. Since my French press broke and the Minimug was a poor system, I decided to try Aeropress. It is now my go to coffee maker for everything. Work, home, camping. It works well in almost every situation. If you're unfamiliar with the Aeropress, it's simple a manual, pressurized coffee maker. You place a tube like device over your cup. At the cup end, is a cap with a filter. Coffee grounds scooped into the tube are held up by the filter. You then pour in your hot water (and I give mine a little stir to blend the grounds). A small bit of coffee will start dripping through the filter. At this point, you take a plundger like device that fits inside the tube, and you push the coffee through. The device itself is a simple combination of drip and press makers and it makes my favorite coffee. As with most coffee makers, there are a lot of additional variabled. This one just makes it simple, quick, and is easy to clean. When the coffee is done, you simply remove the Aeropress from the top of the cup. Remove the bottom cap, push the bludger the rest of the way through to push the grounds and filter into a garbage, and then rinse it off. That's it. I then return to my coffee and add a bit of almond milk. Black coffee is delicious, but I find my teeth yellowing quite a bit since drinking it more. I then return to my desk to go through my messages.
 
 This entire process takes less than five minutes. I end up with a delicious cup of coffee (sometimes multiple depending on the day) and a simple task to start the day.
+
+Cheers,
+Z&#151;
+
+PS: I need to remember to save this posts as .md files.
