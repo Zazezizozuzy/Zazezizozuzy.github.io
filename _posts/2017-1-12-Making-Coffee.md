@@ -20,4 +20,4 @@ This entire process takes less than five minutes. I end up with a delicious cup 
 Cheers,
 Z&#151;
 
-PS: I need to remember to save this posts as .md files.
+PS: I need to remember to save these posts as .md files.
