@@ -18,6 +18,4 @@ While the water is boiling, I wash my cup and prep everything. Since my French p
 This entire process takes less than five minutes. I end up with a delicious cup of coffee (sometimes multiple depending on the day) and a simple task to start the day.
 
 Cheers,
-Z&#151;
-
-PS: I need to remember to save these posts as .md files.
+Zaz
